@@ -1,10 +1,6 @@
 class Pessoa {
   String? nome;
   String? sobrenome;
-  String? _cpf;
-
-  get cpf => this._cpf;
-  set cpf(numero) => this._cpf = numero;
 
   /*Pessoa(String nome, String sobrenome) {
     this.nome = nome;
