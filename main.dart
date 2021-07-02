@@ -1,6 +1,7 @@
 import 'classes/boletim.dart';
 import 'classes/disciplina.dart';
 import 'classes/professor.dart';
+import 'classes/aluno.dart';
 
 main() {
   var boletim = Boletim(
